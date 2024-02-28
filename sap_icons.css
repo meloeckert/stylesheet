@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'SAP Fiori Icons';
+  src:
+    url('https://github.com/SAP/theming-base-content/blob/master/content/Base/baseLib/baseTheme/fonts/SAP-icons.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
